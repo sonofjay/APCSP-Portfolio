@@ -1,26 +1,27 @@
 body {
-    background-color: black;
+    background-color: #171717;
     color: white;
 }
 
 h1 {margin-top: 60px;
     color: white;
     text-align: center;
-    font-family: Comic Sans, Comic Sans MS, cursive;
+    font-family: Comic, cursive;
 }
 
 h2 {
     color: white;
+    font-family: Comic, cursive;
 }
 
 p {
-    font-family: Comic Sans, Comic Sans MS, cursive;
-    font-size: 20px
+    font-family: Comic, Comic, cursive;
+    font-size: 20px;
 }
 
 body {margin:0;}
 
-ul {
+.header {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -29,10 +30,6 @@ ul {
     position: fixed;
     top: 0;
     width: 100%;
-    
-}
-
-.header {
 font:18px Comic Sans, Comic Sans MS, cursive;
 }
 
